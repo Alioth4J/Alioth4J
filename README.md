@@ -9,3 +9,8 @@
 █████╗█████╗█████╗█████╗█████╗█████╗█████╗█████╗█████╗█████╗╚██████████╔╝██╔╝██╔╝██╔╝  
 ╚════╝╚════╝╚════╝╚════╝╚════╝╚════╝╚════╝╚════╝╚════╝╚════╝ ╚═════════╝ ╚═╝ ╚═╝ ╚═╝
 ```
+- 🌱 I’m currently learning Microservices
+- 💖 Favourite tech: Java
+- 📖 Welcome to my [blog](https://alioth4j.github.io/blog/)
+- 📫 How to reach me: Alioth4J@proton.me
+- ⚡ Fun fact: I love magpies
