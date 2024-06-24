@@ -9,9 +9,9 @@
 █████╗█████╗█████╗█████╗█████╗█████╗█████╗█████╗█████╗█████╗╚██████████╔╝██╔╝██╔╝██╔╝  
 ╚════╝╚════╝╚════╝╚════╝╚════╝╚════╝╚════╝╚════╝╚════╝╚════╝ ╚═════════╝ ╚═╝ ╚═╝ ╚═╝
 ```
-- 🌱 I’m currently learning 6.824
+- 🌱 I’m currently learning Spring source code and 6.824.
 - 💖 Favourite tech: Java
 - 📖 Welcome to my [blog](https://alioth4j.github.io/blog/)
-- 📫 How to reach me: Alioth4J@proton.me
+- 📫 How to reach me: `Alioth4J@proton.me`
 ## 🏆 GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=Alioth4J&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
