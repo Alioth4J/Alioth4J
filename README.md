@@ -9,7 +9,7 @@
 █████╗█████╗█████╗█████╗█████╗█████╗█████╗█████╗█████╗█████╗╚██████████╔╝██╔╝██╔╝██╔╝  
 ╚════╝╚════╝╚════╝╚════╝╚════╝╚════╝╚════╝╚════╝╚════╝╚════╝ ╚═════════╝ ╚═╝ ╚═╝ ╚═╝
 ```
-- 🌱 I’m currently learning Spring In Action and 6.824.
+- 🌱 I’m currently learning Spring source.
 - 💖 Favourite tech: Java
 - 📖 Welcome to my [blog](https://alioth4j.github.io/blog/)
 - 📫 How to reach me: `Alioth4J@proton.me`
